@@ -1,8 +1,8 @@
 # API Documentation
 
-# npm install
+ **npm install**
 
-# npm start
+ **npm start**
 
 ## Ethers API
 
